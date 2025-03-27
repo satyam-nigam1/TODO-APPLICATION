@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-1959473130-3270132109-767564495-1001</user>
+  <keys>
+    <key installerType="InnoSetup" displayName="Git LFS version 3.6.1" displayVersion="3.6.1">
+      <RegistryView>Registry64</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{286391DE-F778-44EA-9375-1B21AAA04FF0}_is1</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[C:\Program Files\Git LFS\]]></InstallLocation>
+      <UninstallString><![CDATA["C:\Program Files\Git LFS\unins000.exe" /SILENT]]></UninstallString>
+      <HasQuietUninstall>true</HasQuietUninstall>
+      <Publisher><![CDATA[GitHub, Inc.]]></Publisher>
+      <InstallDate>20250327</InstallDate>
+      <InstallSource><![CDATA[]]></InstallSource>
+      <Language />
+      <Version />
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>false</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>true</NoModify>
+      <NoRepair>true</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+    </key>
+  </keys>
+</registrySnapshot>

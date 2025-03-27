@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\zauvijek\lib\git-lfs.install\git-lfs.install.nupkg" checksum="C1A41FBF7A44A96262D2C5F285995836" />
+    <file path="C:\zauvijek\lib\git-lfs.install\git-lfs.install.nuspec" checksum="9A88336C878D6A5D6572814B2FC868A8" />
+    <file path="C:\zauvijek\lib\git-lfs.install\legal\LICENSE.txt" checksum="C3798FD1651D568759A154316C7B205B" />
+    <file path="C:\zauvijek\lib\git-lfs.install\legal\VERIFICATION.txt" checksum="4937AEA40CDF48758D133B403E4F51A9" />
+    <file path="C:\zauvijek\lib\git-lfs.install\tools\chocolateyInstall.ps1" checksum="34DE96E1E3B74024E9D97A10E1F1C4B3" />
+    <file path="C:\zauvijek\lib\git-lfs.install\tools\git-lfs-windows-v3.6.1.exe.ignore" checksum="BEA07E6D2B8DCE396FE21BAA61B34956" />
+  </files>
+</fileSnapshot>

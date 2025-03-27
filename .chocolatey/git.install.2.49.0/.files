@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\zauvijek\lib\git.install\git.install.nupkg" checksum="2BB824007FA7EF24DCD870CABA28AB2D" />
+    <file path="C:\zauvijek\lib\git.install\git.install.nuspec" checksum="11B8C5A0FCFC36347E193F2DBD847782" />
+    <file path="C:\zauvijek\lib\git.install\legal\LICENSE.txt" checksum="147AC7E5E6DAA60704C926873D2C066D" />
+    <file path="C:\zauvijek\lib\git.install\legal\VERIFICATION.txt" checksum="9CA25DFCB7FD284C06C95C688B80B369" />
+    <file path="C:\zauvijek\lib\git.install\tools\chocolateyBeforeModify.ps1" checksum="CA782F020B8C458D3CE16068E894E2E5" />
+    <file path="C:\zauvijek\lib\git.install\tools\chocolateyInstall.ps1" checksum="10778C53C478F254245EBBB14C8F9BA9" />
+    <file path="C:\zauvijek\lib\git.install\tools\Git-2.49.0-64-bit.exe.ignore" checksum="BEA07E6D2B8DCE396FE21BAA61B34956" />
+    <file path="C:\zauvijek\lib\git.install\tools\helpers.ps1" checksum="5812FA0A5E8A0485982C96984238BF9E" />
+  </files>
+</fileSnapshot>
