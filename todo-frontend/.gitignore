@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 !todo-frontend/out/.gitattributes
+/out/
+!out/.gitattributes
+!todo-frontend/.gitattributes
